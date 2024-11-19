@@ -36,8 +36,9 @@
 
    <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a> 
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AJCoder98&show_icons=true&locale=en&layout=compact" alt="AJCoder98" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AJCoder98&show_icons=true&locale=en" alt="AJCoder98" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AJCoder98&" alt="AJCoder98" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AJCoder98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AJCoder98&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=AhmadHRai&mode=daily&theme=dracula&order=3" height="150" alt="streak graph"  /> -->
+  <a href="https://streak-stats.demolab.com/?user=AJCoder98&theme=dracula"><img src="https://streak-stats.demolab.com?user=AJCoder98&theme=dracula" alt="GitHub Streak" /></a>
+</div>
